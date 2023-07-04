@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "commonjs",
+      "declaration": true,
+      "emitDeclarationOnly": true,
+      "strict": true,
+      "jsx":"preserve"
+    },
+    "exclude": ["node_modules", "**/__tests__/*"],
+    "include": ["src/modules"]
+  }

@@ -14,12 +14,12 @@ const FrontCover = UI.CreateComponentFromClass('cover', class FrontCover extends
                    
                     
                     <div class="area" >
-                        <div class="context" id="frontage">
-                            <h3 class="gradient-text" style="text-align:center;font-weight:bold;padding:0px 20px;margin-bottom:25px;text-transform:capitaliz;">The next reactive library for the web</h3>
+                        <div class="context" id="frontage" style="color:#ffffff">
+                            <h3 class="gradient-tex" style="color:#ffffff;text-align:center;font-weight:bold;padding:0px 20px;margin-bottom:25px;text-transform:capitaliz;">The next reactive library for the web</h3>
                             <p class="fs-4 bd" style="padding:0px 20px;margin:6px;text-align:center;">Create composable and declarative user interfaces.</p>
                             
                         </div>
-                        <div style="" class="wrapper">
+                        <div style="display:none" class="wrapper">
                             <div style="flex:1;" class="h-center">
                                 <div class="blur-back h-center" style="padding:40px;width:100%;border-radius:30px;margin:10px;">
                                     <div style="background:#ffffff;padding:10px;height:300px;width:inherit;border-radius:25px;">
